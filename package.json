@@ -2,7 +2,7 @@
   "name": "pomodoro-clock",
   "version": "0.0.0",
   "description": "No description",
-  "author": null,
+  "author": "Mike",
   "private": true,
   "main": "node_modules/expo/AppEntry.js",
   "devDependencies": {
